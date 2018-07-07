@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- todo set multi size  -->
+    <dimen name="spacing_24">24dp</dimen>
+    <dimen name="spacing_6">6dp</dimen>
+    <dimen name="text_14sp">14dip</dimen>
+    <dimen name="text_16sp">16dip</dimen>
+    <dimen name="text_18sp">18dip</dimen>
+    <dimen name="text_20sp">20dip</dimen>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Home Test</string>
+    <string name="tiki_date_promotion_day">%1$d ngày, %2$s</string>
+    <string name="tiki_date_promotion">Kết thúc sau\n%1$s</string>
+</resources>
